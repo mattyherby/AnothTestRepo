@@ -8,6 +8,7 @@ namespace Project7
 {
     class Class1
     {
-        int i;
+
+        string str;
     }
 }

@@ -8,5 +8,6 @@ namespace Project7
 {
     class Class2
     {
+        long mTrep;
     }
 }
